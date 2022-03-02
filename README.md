@@ -4,7 +4,7 @@ This set of scripts emulates concurrent  send transactions between selected numb
 
 You need Linux and NodeJS to run this tool. Then install the needed NPM modules withing the working directory:
 ```
-npm --install web3
+npm install web3
 ```
 
 ## Configuration
