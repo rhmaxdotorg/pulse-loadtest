@@ -7,6 +7,13 @@ You need Linux and NodeJS to run this tool. Then install the needed NPM modules 
 npm install web3
 ```
 
+## How to use
+
+- Clone repo and change to main directory
+- Install the web3 npm package
+- Run create-wallets.sh
+- Run run-agents.sh
+
 ## Configuration
 
 Default configuration assumes:
